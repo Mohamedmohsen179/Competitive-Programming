@@ -30,12 +30,14 @@ Each solution file has a proper extension (`.cpp`, `.py`) based on the programmi
 - **LeetCode:** A popular platform for practicing coding and algorithm problems.
 - **Codeforces:** A platform for competitive programming contests.
 
-### Contact
+## Contact
 
 If you have any questions or suggestions, feel free to contact me at:
-    Email: Mohamedmohsen@ieee.org
-    LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohamed-mohsen-136bbb293/)
-    GitHub: [Your GitHub](https://github.com/Mohamedmohsen179/)
+
+- **Email:** [Mohamedmohsen@ieee.org](mailto:Mohamedmohsen@ieee.org)
+- **LinkedIn:** [Mohamed Mohsen](https://www.linkedin.com/in/mohamed-mohsen-136bbb293/)
+- **GitHub:** [Mohamedmohsen179](https://github.com/Mohamedmohsen179/)
+
 
     
  Explanation:
