@@ -50,3 +50,37 @@ The problems are organized into directories named after the platforms, and each 
 │ │ ├── problemA.py
 │ │ ├── problemB.py
 └── └── ...
+
+
+Each file contains the problem statement as a comment at the top, followed by my solution.
+
+## How to Use
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/yourusername/competitive-programming-solutions.git
+   cd competitive-programming-solutions
+Navigate to the desired directory:
+
+sh
+
+cd LeetCode
+
+Open the solution file in your preferred text editor or IDE to view the solution:
+
+sh
+
+code problem1.cpp
+
+Compile and run the solution (example for C++):
+
+sh
+
+g++ problem1.cpp -o problem1
+./problem1
+
+Run the solution (example for Python):
+
+sh
+
+python3 problem1.py
