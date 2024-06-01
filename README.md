@@ -40,7 +40,7 @@ If you have any questions or suggestions, feel free to contact me at:
 
 
     
- Explanation:
+### Explanation:
 1. **Introduction:** Briefly describes the purpose of the repository.
 2. **Languages Used:** Specifies the languages used (C++ and Python).
 3. **Platforms:** Lists the competitive programming platforms (LeetCode and Codeforces).
