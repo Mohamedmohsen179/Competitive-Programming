@@ -7,10 +7,6 @@ Welcome to my Competitive Programming Solutions repository! This repository cont
 - [Introduction](#introduction)
 - [Languages Used](#languages-used)
 - [Platforms](#platforms)
-- [Directory Structure](#directory-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -34,7 +30,15 @@ Each solution file has a proper extension (`.cpp`, `.py`) based on the programmi
 - **LeetCode:** A popular platform for practicing coding and algorithm problems.
 - **Codeforces:** A platform for competitive programming contests.
 
+Contact
 
+If you have any questions or suggestions, feel free to contact me at:
+
+    Email: Mohamedmohsen@ieee.org
+    LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohamed-mohsen-136bbb293/)
+    GitHub: [Your GitHub](https://github.com/Mohamedmohsen179/)
+
+    
 ### Explanation:
 1. **Introduction:** Briefly describes the purpose of the repository.
 2. **Languages Used:** Specifies the languages used (C++ and Python).
