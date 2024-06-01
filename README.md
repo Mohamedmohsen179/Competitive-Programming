@@ -37,4 +37,16 @@ Each solution file has a proper extension (`.cpp`, `.py`) based on the programmi
 ## Directory Structure
 
 The problems are organized into directories named after the platforms, and each problem has its own file. For example:
-
+├── LeetCode
+│ ├── problem1.cpp
+│ ├── problem2.py
+│ └── ...
+├── Codeforces
+│ ├── contest1
+│ │ ├── problemA.cpp
+│ │ ├── problemB.cpp
+│ │ └── ...
+│ ├── contest2
+│ │ ├── problemA.py
+│ │ ├── problemB.py
+└── └── ...
